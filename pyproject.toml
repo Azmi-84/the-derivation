@@ -1,0 +1,18 @@
+[project]
+name = "the-derivation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.5.3",
+    "jupyterlab-myst>=2.6.0",
+    "matplotlib>=3.10.8",
+    "myst-nb>=1.3.0",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "sphinx>=8.1.3",
+    "sphinx-autobuild>=2024.10.3",
+    "sphinx-copybutton>=0.5.2",
+    "sphinx-rtd-theme>=3.1.0",
+]
