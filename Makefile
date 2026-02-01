@@ -24,6 +24,10 @@ help:
 # Clean build directory
 clean:
 	rm -rf $(BUILDDIR)/*
+	rm -rf $(SOURCEDIR)/.doctrees
+	rm -rf $(SOURCEDIR)/__pycache__
+	find $(SOURCEDIR) -type d -name __pycache__ -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete
 
 # Autobuild
 autobuild:
