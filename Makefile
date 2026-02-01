@@ -7,8 +7,6 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
 BUILDDIR      = build
-# RSTFILES	 = $(wildcard $(SOURCEDIR)/*.rst)
-# MDDIR         = $(SOURCEDIR)/md
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -21,7 +19,7 @@ help:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-# Clean build directory
+# Clean build directories
 clean:
 	rm -rf $(BUILDDIR)/*
 	rm -rf $(SOURCEDIR)/.doctrees

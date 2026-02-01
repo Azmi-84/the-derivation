@@ -1,0 +1,5 @@
+- Have to add a frequently asked questions (FAQ) section to the landing page or home page.
+- Have to create directory of position analysis, velocity analysis, gear analysis.
+- Have to add a question in the FAQ about how to use the dark mode using dark reader extension.
+- Have to add slider-crank mechanism, scotch-yoke mechanism, cam-follower mechanism, rack-pinion mechanism.
+- Have to design different banner using canva for different mechanism.
