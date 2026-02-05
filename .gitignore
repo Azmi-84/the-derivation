@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Exclude marimo session files
+**/session/
