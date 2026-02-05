@@ -1,4 +1,5 @@
 # About us
+
 ---
 
 ## Hi, I'm Abdullah al Azmi
@@ -11,6 +12,7 @@ Here is my resume: [Abdullah al Azmi](https://rxresu.me/abdullahalazmi222357/abd
 
 
 ## Hi, I'm Md. Tanvir Jahan
-I'm a junior in mechanical engineering at Islamic University of Technology (IUT). I have a passion for understanding the world at the fundamental level and the laws that govern it. My research interest are in **physics,cosmology and AI.**   
+
+I'm a junior in mechanical engineering at Islamic University of Technology (IUT). I have a passion for understanding the world at the fundamental level and the laws that govern it. My research interest are in **physics, cosmology and AI.**
 
 Find me here: [Md. Tanvir Jahan](https://www.linkedin.com/in/tanvir-jahan-b55b4a218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzFBdI11NTp2sDp6zI0chuQ%3D%3D)
