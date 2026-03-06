@@ -6,11 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'the-derivation'
+project = "the-derivation"
 copyright = "2026, 'Abdullah al Azmi, Tanvir Jahan'"
 author = "'Abdullah al Azmi, Tanvir Jahan'"
-release = '0.1'
-language = 'en'
+release = "0.1"
+language = "en"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -45,11 +45,11 @@ nb_merge_streams = True  # Merge stdout and stderr streams
 
 # Source suffix - Define which parser handles which file type
 source_suffix = {
-    ".md": "myst-nb", # Use MyST-NB for Markdown files
-    ".ipynb": "myst-nb", # Use MyST-NB for Jupyter Notebooks
+    ".md": "myst-nb",  # Use MyST-NB for Markdown files
+    ".ipynb": "myst-nb",  # Use MyST-NB for Jupyter Notebooks
 }
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 exclude_patterns = [
     "docs",
     "_build",
@@ -63,7 +63,6 @@ exclude_patterns = [
 ]
 
 
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
@@ -71,7 +70,7 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_theme_options = {
-    'logo_only': True,
+    "logo_only": True,
 }
 
 html_logo = "../resource/the-derivation-logo.svg"
