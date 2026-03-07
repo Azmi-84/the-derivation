@@ -73,4 +73,4 @@ html_theme_options = {
     "logo_only": True,
 }
 
-html_logo = "../resource/the-derivation-logo.svg"
+html_logo = "../resource/the-derivation/the_derivation_logo.svg"
